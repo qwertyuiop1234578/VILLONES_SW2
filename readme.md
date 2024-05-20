@@ -57,7 +57,7 @@
         </section>
     </main>
     <footer>
-  <h3>Additional informaation.</h3>
+  <h3>Additional information.</h3>
         <p>I can speak English and Filipino.</p>
         <p>Easy to learn and easy to teach.</p>
         <p>Felxible</p>
