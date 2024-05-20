@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Resume</title>
     <link rel="stylesheet" href="styles.css">
+    <img src="![VILLONES, CESAR III H _0682](https://github.com/qwertyuiop1234578/VILLONES_SW2/assets/162384817/496bb1ab-0bf7-4209-a46f-b85eb948dbcd) 
+
 </head>
 <body>
     <header>
         <h1>Cesar H. Villones III.</h1>
-
  <nav>
             <ul>
                 <li><a href="#summary">Summary</a></li>
