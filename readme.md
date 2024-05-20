@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h2>Resume</h2>
     <link rel="stylesheet" href="styles.css">
-    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/356180849_154847787601272_2194212827118757950_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEOw8Er6lMUAw9w96Tq5pV-XpPcZDi7S0Rek9xkOLtLRGPFXDSIjpc6HDgoWyDN7IRyTCf7IMxjCfS0OBrF8EMB&_nc_ohc=RWSHTSaf23gQ7kNvgGSUaej&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGUOJ_AomARe0ybHjB7zlvGVke5XU6WV8qwY0Tbie0wew&oe=6672225E" alt="pic" width="460 height="345">
+    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/356180849_154847787601272_2194212827118757950_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEOw8Er6lMUAw9w96Tq5pV-XpPcZDi7S0Rek9xkOLtLRGPFXDSIjpc6HDgoWyDN7IRyTCf7IMxjCfS0OBrF8EMB&_nc_ohc=RWSHTSaf23gQ7kNvgGSUaej&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGUOJ_AomARe0ybHjB7zlvGVke5XU6WV8qwY0Tbie0wew&oe=6672225E" alt="pic" width="100 height="200">
 
 </head>
 <body>
