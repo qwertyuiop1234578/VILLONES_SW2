@@ -26,41 +26,41 @@
     <main>
         <section id="summary">
             <h2>Summary</h2>
-            <p>dynamic and extremely talented IT specialist with more than five years of online and mobile application development and deployment experience. competent with several other programming languages and frameworks, such as Flutter, JavaScript, React, and Node.js. adept at overseeing the entire software development lifecycle, including design, implementation, and upkeep. strong problem-solving abilities and a track record of producing excellent, approachable solutions. Outstanding communicator and team player who is passionate about keeping up with the latest innovations and trends in the business. attempting to use creative thinking and technical know-how to support a new tech startup. .</p>
+            <p>ynamic and extremely talented IT specialist with more than five years of online and mobile application development and deployment experience. competent with several other programming languages and frameworks, such as Flutter, JavaScript, React, and Node.js. adept at overseeing the entire software development lifecycle, including design, implementation, and upkeep. strong problem-solving abilities and a track record of producing excellent, approachable solutions. Outstanding communicator and team player who is passionate about keeping up with the latest innovations and trends in the business. attempting to use creative thinking and technical know-how to support a new tech startup. .</p>
         </section>
         <section id="experience">
             <h2>Experience</h2>
             <div class="experience-item">
-                <h3>Job Title</h3>
-                <h4>Company Name</h4>
-                <p>Dates of Employment</p>
-                <p>Description of responsibilities</p>
+                <h3>IT Support Specialist</h3>
+                <h4>ABC corp.</h4>
+                <p>Feb 2021 - Jan 2022</p>
+                <p>My job at this corporation is to make a check on a company system from a client and fix if there is a malfunction in the system.</p>
             </div>
-            <!-- Add more experience items as needed -->
         </section>
         <section id="education">
             <h2>Education</h2>
             <div class="education-item">
-                <h3>Degree</h3>
-                <h4>Institution</h4>
-                <p>Years</p>
-                <p>Description</p>
+                <h3>Bachelor of Science in Information Technology Major in Web and Mobile Application.</h3>
+                <p>2018 - 2020</p>
+                <p>I graduated in FEU Institute of Technology.</p>
             </div>
-            <!-- Add more education items as needed -->
         </section>
         <section id="skills">
             <h2>Skills</h2>
             <ul>
-                <li>Skill 1</li>
-                <li>Skill 2</li>
-                <li>Skill 3</li>
-                <li>Skill 4</li>
-                <li>Skill 5</li>
+                <li>C++</li>
+                <li>Phyton</li>
+                <li>Ruby</li>
+                <li>C#</li>
+                <li>HTML</li>
             </ul>
         </section>
     </main>
     <footer>
-  
+  <h3>Additional informaation.</h3>
+        <p>I can speak English and Filipino.</p>
+        <p>Easy to learn and easy to teach.</p>
+        <p>Felxible</p>
     </footer>
 </body>
 </html>
