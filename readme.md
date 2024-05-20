@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Cesar H. Villones III.</h1>
         <nav>
             <ul>
                 <li><a href="#summary">Summary</a></li>
@@ -56,7 +56,8 @@
         </section>
     </main>
     <footer>
-        <p>Contact Information: email@example.com</p>
+        <p>Contact Information: cesarvillones909@gmail.com</p>
+        <p>Contact Number: 09981759750</p>
     </footer>
 </body>
 </html>
