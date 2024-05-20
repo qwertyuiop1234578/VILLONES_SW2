@@ -1,113 +1,62 @@
-<a name="readme-top">
-
-<br/>
-
-<br />
-<div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-  </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Third's Proj</h3>
-</div>
-<!-- TODO: Make a short description -->
-<div align="center">
-  Short Description. (Optional)
-</div>
-
-<br />
-
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
-
----
-
-<br />
-<br />
-
-<!-- TODO: If you want to add more layers for your readme -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#overview">Overview</a>
-      <ol>
-        <li>
-          <a href="#key-components">Key Components</a>
-        </li>
-        <li>
-          <a href="#technology">Technology</a>
-        </li>
-      </ol>
-    </li>
-    <li>
-      <a href="#rules-and-principles">Rules and Principles</a>
-    </li>
-    <li>
-      <a href="#resources">Resources</a>
-    </li>
-  </ol>
-</details>
-
----
-
-## Overview
-
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
-
-### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
-
-### Technology
-<!-- TODO: List of Technology Used -->
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-
-## Rules and Principles
-1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
-2. Do not rename any .html files; always use 'index.html' as the filename.
-3. File Structure to follow
-
-```
-WD-ProjectName
-└─ assets
-|   └─ css
-|   |   └─ style.css
-|   └─ img
-|   |   └─ fileWith.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ script.js
-└─ pages
-|  └─ pageName
-|     └─ assets
-|     |  └─ css
-|     |  |  └─ style.css
-|     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
-|     └─ index.html
-└─ index.html
-└─ readme.md
-```
-
-## Resources
-
-<!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <nav>
+            <ul>
+                <li><a href="#summary">Summary</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="summary">
+            <h2>Summary</h2>
+            <p>Brief summary about yourself.</p>
+        </section>
+        <section id="experience">
+            <h2>Experience</h2>
+            <div class="experience-item">
+                <h3>Job Title</h3>
+                <h4>Company Name</h4>
+                <p>Dates of Employment</p>
+                <p>Description of responsibilities</p>
+            </div>
+            <!-- Add more experience items as needed -->
+        </section>
+        <section id="education">
+            <h2>Education</h2>
+            <div class="education-item">
+                <h3>Degree</h3>
+                <h4>Institution</h4>
+                <p>Years</p>
+                <p>Description</p>
+            </div>
+            <!-- Add more education items as needed -->
+        </section>
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Skill 1</li>
+                <li>Skill 2</li>
+                <li>Skill 3</li>
+                <li>Skill 4</li>
+                <li>Skill 5</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Contact Information: email@example.com</p>
+    </footer>
+</body>
+</html>
