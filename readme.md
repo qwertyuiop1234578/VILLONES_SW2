@@ -9,9 +9,8 @@
 <body>
     <header>
         <h1>Cesar H. Villones III.</h1>
-        <img src="![VILLONES, CESAR III H _0682](https://github.com/qwertyuiop1234578/VILLONES_SW2/assets/162384817/31e337c3-34c0-42ff-8218-a0a3f571a59e)
 
-        <nav>
+ <nav>
             <ul>
                 <li><a href="#summary">Summary</a></li>
                 <li><a href="#experience">Experience</a></li>
