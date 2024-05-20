@@ -1,0 +1,7 @@
+header{
+    background-color: rgba(211, 184, 108, 0.918);
+    & > img {
+        width: 100px;
+        border: ;
+    }
+}
