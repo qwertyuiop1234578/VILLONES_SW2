@@ -26,7 +26,7 @@
     <main>
         <section id="summary">
             <h2>Summary</h2>
-            <p>ynamic and extremely talented IT specialist with more than five years of online and mobile application development and deployment experience. competent with several other programming languages and frameworks, such as Flutter, JavaScript, React, and Node.js. adept at overseeing the entire software development lifecycle, including design, implementation, and upkeep. strong problem-solving abilities and a track record of producing excellent, approachable solutions. Outstanding communicator and team player who is passionate about keeping up with the latest innovations and trends in the business. attempting to use creative thinking and technical know-how to support a new tech startup.</p>
+            <p>Dynamic and extremely talented IT specialist with more than five years of online and mobile application development and deployment experience. competent with several other programming languages and frameworks, such as Flutter, JavaScript, React, and Node.js. adept at overseeing the entire software development lifecycle, including design, implementation, and upkeep. strong problem-solving abilities and a track record of producing excellent, approachable solutions. Outstanding communicator and team player who is passionate about keeping up with the latest innovations and trends in the business. attempting to use creative thinking and technical know-how to support a new tech startup.</p>
         </section>
         <section id="experience">
             <h2>Experience</h2>
