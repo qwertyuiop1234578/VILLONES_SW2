@@ -11,6 +11,8 @@
 <body>
     <header>
         <h1>Cesar H. Villones III.</h1>
+        <p>Contact Information: cesarvillones909@gmail.com</p>
+        <p>Contact Number: 09981759750</p>
  <nav>
             <ul>
                 <li><a href="#summary">Summary</a></li>
@@ -58,8 +60,7 @@
         </section>
     </main>
     <footer>
-        <p>Contact Information: cesarvillones909@gmail.com</p>
-        <p>Contact Number: 09981759750</p>
+  
     </footer>
 </body>
 </html>
