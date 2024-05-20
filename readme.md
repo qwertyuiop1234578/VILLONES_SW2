@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Resume</title>
+    <h2>Resume</h2>
     <link rel="stylesheet" href="styles.css">
     <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/356180849_154847787601272_2194212827118757950_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEOw8Er6lMUAw9w96Tq5pV-XpPcZDi7S0Rek9xkOLtLRGPFXDSIjpc6HDgoWyDN7IRyTCf7IMxjCfS0OBrF8EMB&_nc_ohc=RWSHTSaf23gQ7kNvgGSUaej&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGUOJ_AomARe0ybHjB7zlvGVke5XU6WV8qwY0Tbie0wew&oe=6672225E">
 
@@ -24,7 +24,7 @@
     <main>
         <section id="summary">
             <h2>Summary</h2>
-            <p>I' .</p>
+            <p>dynamic and extremely talented IT specialist with more than five years of online and mobile application development and deployment experience. competent with several other programming languages and frameworks, such as Flutter, JavaScript, React, and Node.js. adept at overseeing the entire software development lifecycle, including design, implementation, and upkeep. strong problem-solving abilities and a track record of producing excellent, approachable solutions. Outstanding communicator and team player who is passionate about keeping up with the latest innovations and trends in the business. attempting to use creative thinking and technical know-how to support a new tech startup. .</p>
         </section>
         <section id="experience">
             <h2>Experience</h2>
