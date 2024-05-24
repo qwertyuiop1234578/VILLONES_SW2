@@ -4,13 +4,13 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/qwertyuiop1234578/VILLONES_SW2">
   
   </a>
-  <h3 align="center">WD Seatwork 2: TW04</h3>
+  <h3 align="center">WD Seatwork 2:VILLONES_TW04</h3>
 </div>
 <div align="center">
-  This project is created to demonstrate understading of Fundamentals in Web.
+  This project is my resume.
 </div>
 
 <br />
@@ -52,9 +52,10 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 Description of the project in details.
+This project is a resume using html and css.
 
 Guiding Question:
-- What is the project
+- What is the project?
 - Whats the purpose
 - What are key components
 - What technology used and how it is used

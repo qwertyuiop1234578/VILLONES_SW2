@@ -1,7 +1,168 @@
 header{
-    background-color: rgba(211, 184, 108, 0.918);
+    background-color: #ead191;
+    border: 2px solid #18181a;
     & > img {
-        width: 100px;
-        border: ;
+        width: 150px;
+        border: #18181a, solid;
+        border-radius: 10%;
+        float: left;
+        margin-right: 30px;
+        display:block;
     }
+
+    & > h1 {
+        padding: 1rem;
+        font-style: oblique;
+    }
+
+    & > p {
+        font-style: oblique;
+        font-weight: bold;
+    }
+    & > details {
+        padding: 1rem;
+    }
+.JOB{
+    padding-top: 15px;
+        padding-right: 50px;
+        padding-bottom: 50px;
+        padding-left: 60px;
+        text-align: center;
+        position: absolute;
+        top: 55;
+        right: 100;
+        left: 40%;
+        font-style: oblique;
 }
+    }
+
+main {
+    background-color: #fae5ac;
+    border: 2px solid #18181a;
+    & > p {
+        padding-top: 50px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 80px;
+
+    }
+
+    & > selection{
+        padding: 1rem;
+        font-style: oblique;
+    }
+
+    #summary{
+        padding-top: 15px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 60px;
+        text-align: justify;
+        font-style: oblique;
+
+    }
+
+    #experience{
+        padding-top: 15px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 60px;
+        text-align: justify;
+        font-style: oblique;
+    }
+
+    #education{
+        padding-top: 15px;
+        padding-right: 50px;
+        padding-bottom: 50px;
+        padding-left: 60px;
+        text-align: right;
+        position: absolute;
+        top: 470;
+        right: 0;
+        font-style: oblique;
+        
+    }
+
+    #skills{
+        padding-top: 15px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 60px;
+        text-align: justify;
+        font-style: oblique;
+    }
+
+
+
+
+    html, body {
+        height: 100%;
+        margin: 0;
+    }
+    
+    
+    .lines {
+        width: 91%;
+        height: 1px;
+        background: black;
+        position: absolute;
+        top: 60%;
+        left: 4%;
+        transform: translate(-1%, -5);
+    }
+
+    .line{
+        width: 29%;
+        height: 14%;
+        height: 1px;
+        background: rgb(0, 0, 0);
+        position: absolute;
+        top: 94%;
+        left:50%;
+        transform: translate(-50%, 0%) rotate(90deg);
+    }
+
+    .linee{
+        width: 43%;
+        height: 1px;
+        background: black;
+        position: absolute;
+        top: 100%;
+        left: 4%;
+        transform: translate(-1%, -5);
+    }
+
+    
+
+}
+
+footer {
+    background-color: #ead191;
+    border: 2px solid #18181a;
+    & > selection{
+        padding-top: 15px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 60px;
+        text-align: justify;
+    }
+    #other{
+        padding-top: 15px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 60px;
+        text-align: justify;
+        font-style: oblique;
+    }
+
+}
+
+
+
+
+
+
+
+
+
