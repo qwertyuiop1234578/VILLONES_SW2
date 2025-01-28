@@ -1,6 +1,5 @@
 header{
-    background-color: #ead191;
-    border: 2px solid #18181a;
+
     & > img {
         width: 150px;
         border: #18181a, solid;
@@ -34,11 +33,24 @@ header{
         left: 40%;
         font-style: oblique;
 }
+
+#changeColorButton {
+    background-color: #5d7d16;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
     }
 
+
 main {
-    background-color: #fae5ac;
-    border: 2px solid #18181a;
+
     & > p {
         padding-top: 50px;
         padding-right: 30px;
@@ -138,8 +150,7 @@ main {
 }
 
 footer {
-    background-color: #ead191;
-    border: 2px solid #18181a;
+
     & > selection{
         padding-top: 15px;
         padding-right: 30px;
@@ -155,6 +166,7 @@ footer {
         text-align: justify;
         font-style: oblique;
     }
+
 
 }
 
