@@ -12,14 +12,14 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Resume using html and css. (Optional)
+  Resume using html, css and JS. (Optional)
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=https://github.com/qwertyuiop1234578/VILLONES_SW2)
 
 ---
 
@@ -116,4 +116,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
